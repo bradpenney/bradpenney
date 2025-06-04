@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey there, I'm Brad
 
-<!--
-**bradpenney/bradpenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Kubernetes Platform Engineer from Canada. 🇨🇦  
+I work with open-source, cloud-native infrastructure and automation tools.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently exploring backend engineering patterns.
+- 🌱 I'm also deepening my expertise with Python, continuing my journey towards mastery.
+- 🌟 One of my strengths is communication, particularly technical documentation and diagrams.
+- 💬 Ask me about Kubernetes, GitOps (FluxCD), or Python
+- ⚡ Fun fact: I started my career as a teacher, but realized I prefer computers! ☺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 📊 GitHub Stats
+![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradpenney&show_icons=true&theme=default)
+
+![Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+![Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
