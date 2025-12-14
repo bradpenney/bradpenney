@@ -1,26 +1,37 @@
-# 👋 Hey there, I'm Brad  
+# 👋 Hey there, I'm Brad
 
-🌐 Cloud-native tinkerer, docs nerd, and platform engineer.  
-I build and share tools, docs, and diagrams to help developers (and myself!) learn faster.  
+🌐 Cloud-native tinkerer, docs nerd, and platform engineer.
+I build and share tools, docs, and diagrams to help developers (and myself!) learn faster.
 
-### 🔎 What I’m Working On
+### 🔎 What I'm Working On
 - 🛠️ Experimenting with **Kubernetes**, **GitOps**, and deeper understanding of **Linux**
+- 🤝 Contributing to **[firestoned](https://firestoned.io)** — API-driven infrastructure toolkit for Kubernetes
 - 📚 Running a set of personal learning sites:
-  - [🐧 Exploring Linux](https://linux.bradpenney.io) — notes, tutorials, and deep dives into Linux internals  
-  - [🐍 Exploring Python](https://python.bradpenney.io) — Python experiments, FastAPI work, and backend patterns  
-- ✍️ Writing and diagramming to make hard concepts easier to grasp  
-- 🤝 Active in the **cloud-native community**, especially around Kubernetes and GitOps  
+  - [🐧 Exploring Linux](https://linux.bradpenney.io) — notes, tutorials, and deep dives into Linux internals
+  - [🐍 Exploring Python](https://python.bradpenney.io) — Python experiments, FastAPI work, and backend patterns
+  - [🖥️ Exploring Computer Science](https://cs.bradpenney.io) — CS fundamentals: FSM, parsers, computational thinking
+- ✍️ Writing and diagramming to make hard concepts easier to grasp
+- 🤝 Active in the **cloud-native community**, especially around Kubernetes and GitOps
 
-### 🛠️ Tech I Use & Talk About  
-- **Cloud-Native & Infrastructure**  
+### 🛠️ Tech I Use & Talk About
+
+**Infrastructure & Cloud-Native**
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/-FluxCD-0062ff?style=flat&logo=flux&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- **Languages & Development**  
+**Development & Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**Documentation & Tooling**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![MkDocs](https://img.shields.io/badge/-MkDocs-526CFE?style=flat&logo=materialformkdocs&logoColor=white)
+![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
 
 <!-- ## 📊 GitHub Stats
 ![Brads's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradpenney&show_icons=true&theme=tokyonight)
@@ -30,4 +41,5 @@ I build and share tools, docs, and diagrams to help developers (and myself!) lea
 - [💻 BradPenney.io](https://bradpenney.io)  
 - [💬 LinkedIn](https://linkedin.com/in/bradpenney)  
 
-⚡ Fun fact: I once taught about **revolutions in history**. Now I help lead one in cloud-native infrastructure.
+⚡ Coffee-fueled code and documentation, and an unhealthy attachment to well-structured plans.
+
