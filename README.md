@@ -1,19 +1,24 @@
-# 👋 Hey there, I'm Brad
+# Hey, I'm Brad
 
-🌐 Cloud-native tinkerer, docs nerd, and platform engineer.
-I build and share tools, docs, and diagrams to help developers (and myself!) learn faster.
+Platform engineer focused on Kubernetes, GitOps, and Linux. I write technical documentation aimed at working engineers — practical depth, not hand-holding.
 
-### 🔎 What I'm Working On
-- 🛠️ Experimenting with **Kubernetes**, **GitOps**, and deeper understanding of **Linux**
-- 🤝 Contributing to **[firestoned](https://firestoned.io)** — API-driven infrastructure toolkit for Kubernetes
-- 📚 Running a set of personal learning sites:
-  - [🐧 Exploring Linux](https://linux.bradpenney.io) — notes, tutorials, and deep dives into Linux internals
-  - [🐍 Exploring Python](https://python.bradpenney.io) — Python experiments, FastAPI work, and backend patterns
-  - [🖥️ Exploring Computer Science](https://cs.bradpenney.io) — CS fundamentals: FSM, parsers, computational thinking
-- ✍️ Writing and diagramming to make hard concepts easier to grasp
-- 🤝 Active in the **cloud-native community**, especially around Kubernetes and GitOps
+### What I'm Working On
 
-### 🛠️ Tech I Use & Talk About
+- Building [bradpenney.io](https://bradpenney.io) — a hub for five technical learning sites covering Linux, CS, Python, Kubernetes, and dev tooling
+- Writing and publishing articles across those sites, progressively from fundamentals to production depth
+- Kubernetes in practice: GitOps workflows, FluxCD, cluster management
+
+### Learning Sites
+
+| Site | Topic |
+|------|-------|
+| [linux.bradpenney.io](https://linux.bradpenney.io) | Linux |
+| [cs.bradpenney.io](https://cs.bradpenney.io) | Computer Science |
+| [python.bradpenney.io](https://python.bradpenney.io) | Python |
+| [k8s.bradpenney.io](https://k8s.bradpenney.io) | Kubernetes |
+| [tools.bradpenney.io](https://tools.bradpenney.io) | Dev Tools |
+
+### Tech I Use
 
 **Infrastructure & Cloud-Native**
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -24,22 +29,14 @@ I build and share tools, docs, and diagrams to help developers (and myself!) lea
 
 **Development & Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Documentation & Tooling**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/-MkDocs-526CFE?style=flat&logo=materialformkdocs&logoColor=white)
-![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
+![Zola](https://img.shields.io/badge/-Zola-6B46C1?style=flat&logo=zola&logoColor=white)
 
-<!-- ## 📊 GitHub Stats
-![Brads's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradpenney&show_icons=true&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bradpenney&theme=dark) -->
+### Find Me
 
-### 🌐 On Ye Ole' Interwebs  
-- [💻 BradPenney.io](https://bradpenney.io)  
-- [💬 LinkedIn](https://linkedin.com/in/bradpenney)  
-
-⚡ Coffee-fueled code and documentation, and an unhealthy attachment to well-structured plans.
-
+- [bradpenney.io](https://bradpenney.io)
+- [LinkedIn](https://linkedin.com/in/bradpenney)
