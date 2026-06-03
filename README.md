@@ -45,9 +45,9 @@ When I'm not at a keyboard, I'm usually on trails in Nova Scotia in a side-by-si
 
 ## Electronics (Hobby)
 
-I'm exploring electronics as a personal interest — microcontrollers, MicroPython, basic circuits. Very early, very much a hobby. No custom domain yet.
+I'm exploring electronics as a personal interest — microcontrollers, MicroPython, basic circuits. Very early, very much a hobby.
 
-**[bradpenney.github.io/exploring_electronics](https://bradpenney.github.io/exploring_electronics/)** — separate from the professional learning ecosystem, but built the same way.
+**[electronics.bradpenney.io](https://electronics.bradpenney.io)** — separate from the professional learning ecosystem, but built the same way.
 
 ---
 
