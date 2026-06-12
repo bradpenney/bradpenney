@@ -15,7 +15,7 @@ I'm building [bradpenney.io](https://bradpenney.io) — a connected set of learn
 | [python.bradpenney.io](https://python.bradpenney.io) | Python | Active |
 | [k8s.bradpenney.io](https://k8s.bradpenney.io) | Kubernetes | Active |
 | [tools.bradpenney.io](https://tools.bradpenney.io) | Dev Tools | Active |
-| [gitops.bradpenney.io](https://gitops.bradpenney.io) | GitOps / FluxCD | Early — content in progress |
+| [gitops.bradpenney.io](https://gitops.bradpenney.io) | GitOps / FluxCD | Active — Day One live |
 
 The sites are interconnected by design. Linux + Tools = terminal mastery. Kubernetes + GitOps = production platform engineering. Python + all of them = automation.
 
