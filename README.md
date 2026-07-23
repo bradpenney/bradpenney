@@ -14,10 +14,12 @@ I'm building [bradpenney.io](https://bradpenney.io) — a connected set of learn
 | [cs.bradpenney.io](https://cs.bradpenney.io) | Computer Science | Active |
 | [python.bradpenney.io](https://python.bradpenney.io) | Python | Active |
 | [k8s.bradpenney.io](https://k8s.bradpenney.io) | Kubernetes | Active |
+| [containers.bradpenney.io](https://containers.bradpenney.io) | Containers (Docker/Podman) | Active |
+| [networking.bradpenney.io](https://networking.bradpenney.io) | Networking | Active |
 | [tools.bradpenney.io](https://tools.bradpenney.io) | Dev Tools | Active |
-| [gitops.bradpenney.io](https://gitops.bradpenney.io) | GitOps / FluxCD | Active — Day One live |
+| [gitops.bradpenney.io](https://gitops.bradpenney.io) | GitOps / FluxCD | Active |
 
-The sites are interconnected by design. Linux + Tools = terminal mastery. Kubernetes + GitOps = production platform engineering. Python + all of them = automation.
+The sites are interconnected by design. Linux + Containers + Kubernetes = the full deploy stack. Networking + Kubernetes + GitOps = production platform engineering. Python + all of them = automation.
 
 ---
 
@@ -43,11 +45,13 @@ When I'm not at a keyboard, I'm usually on trails in Nova Scotia in a side-by-si
 
 ---
 
-## Electronics (Hobby)
+## Hobbies (Not Professional Content)
 
-I'm exploring electronics as a personal interest — microcontrollers, MicroPython, basic circuits. Very early, very much a hobby.
+**[electronics.bradpenney.io](https://electronics.bradpenney.io)** — microcontrollers (Arduino), basic circuits, breadboards. A personal interest, built with the same care as the professional sites.
 
-**[electronics.bradpenney.io](https://electronics.bradpenney.io)** — separate from the professional learning ecosystem, but built the same way.
+**[cnc.bradpenney.io](https://cnc.bradpenney.io)** — CNC machining on my own X-Carve 2: G-code, CAD/CAM, machine control. Same story — hobby scope, same standards.
+
+Both are separate from the professional learning ecosystem above.
 
 ---
 
