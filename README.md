@@ -8,7 +8,7 @@ Kubernetes platform lead in Nova Scotia. I got here the way most of us do — be
 
 **[invariant-platform.io](https://invariant-platform.io)** — a small, security-first Kubernetes platform that re-asserts its own posture every night, from outside itself, and whose only repair is a rebuild from a declaration. Every property it claims is one it checks; the nightly check is published on the site, findings included.
 
-- **202 numbered decisions** in a register — nothing deleted, wrong ones superseded by a later number that says why.
+- **207 numbered decisions** in a register — nothing deleted, wrong ones superseded by a later number that says why.
 - **18 invariants** re-asserted every morning by a read-only identity on the hosts beneath the cluster, and paged when one stops holding.
 - **Rebuilt, never repaired.** A node that is wrong is destroyed and built again from the declaration; the tool that does that on a Tuesday is the one that would rebuild the estate after a fire.
 - **Nothing reaches it unsigned.** The cluster pulls a signed artifact from one named workflow; the provisioner itself is a signed release, installed by version, that refuses to change the fleet unless it is one.
